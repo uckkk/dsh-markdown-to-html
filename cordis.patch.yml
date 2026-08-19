@@ -1,0 +1,4 @@
+# Markdown 转 HTML（dsh-markdown-to-html）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: markdown-to-html
+      name: 'dsh-markdown-to-html'
